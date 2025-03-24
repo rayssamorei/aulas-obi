@@ -1,6 +1,6 @@
-//sequência de fibonnaci em java com recursividade
+//sequência de fibonacci em java com recursividade
 
-public class Fibonnaci {
+public class Fibonacci {
     public static void main(String[] args) {
         int n = 10;
         System.out.println("A sequência de Fibonnaci para o número "+n+" é: "+fibonacci(n));
