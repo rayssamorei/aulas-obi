@@ -1,4 +1,4 @@
-//sequência de fibonnaci em java
+//sequência de fibonnaci em java com recursividade
 
 public class Fibonnaci {
     public static void main(String[] args) {

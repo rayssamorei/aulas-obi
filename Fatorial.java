@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//fatorial em Java
+//fatorial em Java usando for, sem recursividade
 public class Fatorial {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
